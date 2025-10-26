@@ -1,6 +1,409 @@
 {
   "licenses": [
-    "DEMO-KEY-123",
-    "ABCDEF-123456-2025"
-  ]
+    {
+      "key": "AAAAAA-100001-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100002-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100003-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100004-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100005-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100006-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100007-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100008-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100009-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "AAAAAA-100010-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100011-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100012-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100013-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100014-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100015-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100016-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100017-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100018-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100019-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "BBBBBB-100020-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "CCCCCC-100021-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "CCCCCC-100022-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "CCCCCC-100023-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "CCCCCC-100024-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "CCCCCC-100025-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "DDDDDD-100026-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "DDDDDD-100027-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "DDDDDD-100028-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "DDDDDD-100029-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "DDDDDD-100030-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "EEEEEE-100031-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "EEEEEE-100032-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "EEEEEE-100033-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "EEEEEE-100034-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "EEEEEE-100035-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "FFFFFF-100036-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "FFFFFF-100037-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "FFFFFF-100038-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "FFFFFF-100039-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "FFFFFF-100040-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "GGGGGG-100041-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "GGGGGG-100042-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "GGGGGG-100043-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "GGGGGG-100044-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "GGGGGG-100045-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "HHHHHH-100046-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "HHHHHH-100047-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "HHHHHH-100048-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "HHHHHH-100049-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    },
+    {
+      "key": "HHHHHH-100050-2025",
+      "email": null,
+      "issued_at": null,
+      "status": "available",
+      "assigned_at": null,
+      "redeemed_at": null
+    }
+  ],
+  "meta": {
+    "version": 1,
+    "created_at": "2025-10-26T09:23:18+00:00",
+    "notes": "Initial pool of 50 licenses. Use status transitions: available -> active (assigned) -> redeemed or revoked."
+  }
 }
